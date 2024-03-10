@@ -1,0 +1,19 @@
+{
+  "name": "@ukirwory/ramtea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukirwory/ramtea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukirwory/ramtea/issues"
+  },
+  "homepage": "https://github.com/ukirwory/ramtea#readme"
+}
